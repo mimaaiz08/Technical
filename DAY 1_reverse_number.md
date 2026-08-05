@@ -1,4 +1,4 @@
-# Day 1 - Reverse Number
+# Reverse Number
 ```python
 n = int(input("Enter the number: "))
 rev = 0
