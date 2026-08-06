@@ -19,7 +19,7 @@ print("Reverse of the number is",rev)
 202. --- Add Digits
 1342. Number of Steps to Reduce a Number to Zero
 2520. Count the Digits That Divide a Number
-3099. --- Harshad Number
+3099. Harshad Number
 
 ## Complexity
 - Reverse Number
