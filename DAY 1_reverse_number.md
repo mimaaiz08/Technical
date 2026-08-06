@@ -13,13 +13,14 @@ print("Reverse of the number is",rev)
 - Integer Division (//)
 - While Loop
 
-## Problems on Leetcode (--- indicates remaining)
-7. --- Reverse Integer (Medium)
-9. Palindrome Number
-202. --- Add Digits
-1342. Number of Steps to Reduce a Number to Zero
-2520. Count the Digits That Divide a Number
-3099. Harshad Number
+## Problems on Leetcode
+7 --- Reverse Integer *(Medium)*  
+9 Palindrome Number *(Easy)*  
+202 Happy Number / Add Digits *(Easy)*  
+1342 Number of Steps to Reduce a Number to Zero *(Easy)*  
+2520 Count the Digits That Divide a Number *(Easy)*  
+3099 Harshad Number *(Easy)*  
+
 
 ## Complexity
 - Reverse Number
